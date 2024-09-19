@@ -32,5 +32,4 @@ Contribuições
 Sinta-se à vontade para contribuir com melhorias, correções de bugs ou novas funcionalidades. Você pode fazer um fork deste repositório e enviar um pull request.
 
 
-Licença
-Este projeto é de código aberto e pode ser utilizado livremente.
+Licença - 2024 Este projeto foi desenvolvido com base no ensino do canal DevClub, sob a orientação de Rodolfo Mori. O código e o material fornecidos neste projeto são exclusivamente para fins de estudo e não podem ser utilizados para fins comerciais.
