@@ -16,10 +16,10 @@ CSS: Estilização da página.
 JavaScript: Lógica para calcular a conversão.
 
 
-Como Usar
+Como Usar :
 Abra o site em um navegador.
-No campo "Valor em Reais", insira o valor que deseja converter.
-No campo "Valor do Dólar", insira a cotação atual do Dólar.
+No campo "Valor em Reais", insira o valor que deseja converter separado por vírgula (por exemplo 45,00).
+No campo "Valor do Dólar", insira a cotação atual do Dólar (por exemplo, no momento da escrita deste Readme, a cotação é 5,46 do Real Brasileiro.
 Clique no botão "Converter".
 O resultado da conversão será exibido abaixo, e um alerta mostrará o valor em Dólares.
 
